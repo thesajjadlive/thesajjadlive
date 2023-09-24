@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Sajjad Hossain</h1>
-<h3 align="center">A passionate laravel developer from Bangladesh</h3>
+<h3 align="center">Passionate laravel developer from Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thesajjadlive&label=Profile%20views&color=0e75b6&style=flat" alt="thesajjadlive" /> </p>
 
@@ -8,9 +8,9 @@
 
 <p align="left"> <a href="https://twitter.com/thesajjadlive" target="blank"><img src="https://img.shields.io/twitter/follow/thesajjadlive?logo=twitter&style=for-the-badge" alt="thesajjadlive" /></a> </p>
 
-- 🔭 I’m currently working on **Client Management System**
+- 🔭 I’m currently working on **Project Management System**
 
-- 🌱 I’m currently learning **Vue & React**
+- 🌱 I’m currently learning **Vue & Inertia**
 
 - 👯 I’m looking to collaborate on **OpenSource Project**
 
